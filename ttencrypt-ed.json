@@ -1,0 +1,379 @@
+{
+    "event": [{
+        "nt": 4,
+        "tea_event_index": 0,
+        "local_time_ms": 1608022820180,
+        "category": "umeng",
+        "tag": "first_launch_time",
+        "label": "perf_monitor",
+        "ext_value": 3022,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:20",
+        "event_id": 1
+    }, {
+        "nt": 4,
+        "tea_event_index": 1,
+        "local_time_ms": 1608022824739,
+        "category": "umeng",
+        "tag": "monitor",
+        "label": "launch",
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:24",
+        "event_id": 6
+    }, {
+        "has_network": "true",
+        "sMainActivityCreate2FeedRequestDuration": -1,
+        "fake_reason": "no_request",
+        "fake_type": "",
+        "mainCreate2ResumeDuration": 107,
+        "ab_sdk_version": "1320912",
+        "nt": 4,
+        "tea_event_index": 2,
+        "local_time_ms": 1608022826928,
+        "category": "umeng",
+        "tag": "fake_feed_response",
+        "label": "perf_monitor",
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:26",
+        "event_id": 8
+    }, {
+        "nt": 4,
+        "tea_event_index": 3,
+        "local_time_ms": 1608022830791,
+        "category": "umeng",
+        "tag": "launch_app",
+        "label": "enter_launch",
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:30",
+        "event_id": 11
+    }, {
+        "nt": 4,
+        "tea_event_index": 4,
+        "local_time_ms": 1608022831770,
+        "category": "umeng",
+        "tag": "load_application_start",
+        "label": "perf_monitor",
+        "ext_value": 2170,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:31",
+        "event_id": 13
+    }, {
+        "nt": 4,
+        "tea_event_index": 5,
+        "local_time_ms": 1608022831819,
+        "category": "umeng",
+        "tag": "load_application_end",
+        "label": "perf_monitor",
+        "ext_value": 2170,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:31",
+        "event_id": 15
+    }, {
+        "nt": 4,
+        "tea_event_index": 6,
+        "local_time_ms": 1608022832930,
+        "category": "umeng",
+        "tag": "notice",
+        "label": "allow_on",
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:32",
+        "event_id": 17
+    }, {
+        "is_ad_event": "1",
+        "ad_extra_data": {
+            "status": "0",
+            "is_penalty_period": "0"
+        },
+        "ab_sdk_version": "1320912",
+        "nt": 4,
+        "tea_event_index": 7,
+        "local_time_ms": 1608022834245,
+        "category": "umeng",
+        "tag": "splash_ad",
+        "label": "stop_showing_monitor",
+        "value": 84378473382,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:34",
+        "event_id": 19
+    }],
+    "event_v3": [{
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "absdk_result",
+        "params": {
+            "result": "1320912",
+            "sp_result": "1320912",
+            "debuginfo": "local:true function:client exposureVids:[]  clientExposureVids:[1320912]",
+            "journey_result": "1",
+            "tea_event_index": 1,
+            "local_time_ms": 1608022820181
+        },
+        "event_id": 2,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:20"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "show_slogan_page",
+        "params": {
+            "tea_event_index": 2,
+            "local_time_ms": 1608022820182
+        },
+        "event_id": 3,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:20"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "exit_slogan_page",
+        "params": {
+            "is_background": "0",
+            "if_send_fake_feed": "0",
+            "stay_time": "3162",
+            "tea_event_index": 3,
+            "local_time_ms": 1608022823101
+        },
+        "event_id": 4,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:23"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "welcomescreen_show",
+        "params": {
+            "tea_event_index": 4,
+            "local_time_ms": 1608022823137
+        },
+        "event_id": 5,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:23"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "start_watching_button_show",
+        "params": {
+            "duration": "1947",
+            "start_watching_button_show": "auto",
+            "tea_event_index": 5,
+            "local_time_ms": 1608022825186
+        },
+        "event_id": 7,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:25"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "fake_feed_response",
+        "params": {
+            "has_network": "true",
+            "sMainActivityCreate2FeedRequestDuration": -1,
+            "fake_reason": "no_request",
+            "fake_type": "",
+            "mainCreate2ResumeDuration": 107,
+            "tea_event_index": 6,
+            "local_time_ms": 1608022826928
+        },
+        "event_id": 9,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:26"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "network_detect_result",
+        "params": {
+            "detect_source": 1,
+            "detect_status": 1,
+            "detect_cost": 0,
+            "detect_start": 0,
+            "tea_event_index": 7,
+            "local_time_ms": 1608022829201
+        },
+        "event_id": 10,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:29"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "launch_log",
+        "params": {
+            "push_id": "",
+            "enter_to": "",
+            "red_badge_number": "",
+            "launch_method": "enter_launch",
+            "is_cold_launch": "1",
+            "tea_event_index": 8,
+            "local_time_ms": 1608022830821
+        },
+        "event_id": 12,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:30"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "request_anchor_list",
+        "params": {
+            "tea_event_index": 9,
+            "local_time_ms": 1608022831776
+        },
+        "event_id": 14,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:31"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "device_info",
+        "params": {
+            "memory_total_size": "1906741248",
+            "build_time": "0",
+            "app_storage_size": "50766990",
+            "cpu_freq": "1586000",
+            "storage_available_external_size": "6612254720",
+            "manufacturer": "unknown",
+            "screen_height": "1280",
+            "Board": "unknown",
+            "storage_available_internal_size": "1661988864",
+            "model": "unknown",
+            "install_on_sdcard": "0",
+            "brand": "unknown",
+            "hardware": "unknown",
+            "screen_width": "720",
+            "product": "unknown",
+            "cpu_core_nums": "8",
+            "os_api_level": "28",
+            "abis": "armeabi-v7a_armeabi_",
+            "os_version": "9",
+            "storage_total_external_size": "10768793600",
+            "memory_available_size": "268144640",
+            "screen_dpi": "311",
+            "cpu_vendor": "unknown",
+            "storage_total_internal_size": "3023716352",
+            "device": "unknown",
+            "tea_event_index": 10,
+            "local_time_ms": 1608022832695
+        },
+        "event_id": 16,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:32"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "df_deferred_install",
+        "params": {
+            "name": "com.ss.android.ugc.aweme.miniapp",
+            "status": 0,
+            "tea_event_index": 11,
+            "local_time_ms": 1608022833389
+        },
+        "event_id": 18,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:33"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "push_monitor_applog_timeout",
+        "params": {
+            "status": 1,
+            "delta": 20159,
+            "tea_event_index": 12,
+            "local_time_ms": 1608022839289
+        },
+        "event_id": 20,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:39"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "anchor_list_success",
+        "params": {
+            "anchor_type": "[]",
+            "tea_event_index": 13,
+            "local_time_ms": 1608022839334
+        },
+        "event_id": 21,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:39"
+    }, {
+        "nt": 4,
+        "ab_sdk_version": "1320912",
+        "event": "push_monitor_applog_timeout",
+        "params": {
+            "status": 2,
+            "delta": 30159,
+            "tea_event_index": 14,
+            "local_time_ms": 1608022849284
+        },
+        "event_id": 22,
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "datetime": "2020-12-15 17:00:49"
+    }],
+    "log_data": [{
+        "has_network": "true",
+        "sMainActivityCreate2FeedRequestDuration": -1,
+        "fake_reason": "no_request",
+        "fake_type": "",
+        "mainCreate2ResumeDuration": 107,
+        "ab_sdk_version": "1320912",
+        "nt": 4,
+        "local_time": 1608022826,
+        "event": "fake_feed_response",
+        "scene": "low_retain",
+        "log_id": 1,
+        "log_type": "app_perf"
+    }],
+    "launch": [{
+        "datetime": "2020-12-15 17:00:20",
+        "session_id": "b07fc5a7-9e77-4c62-b2b8-3d423efaf67d",
+        "local_time_ms": 1608022820180,
+        "tea_event_index": 0,
+        "is_background": true,
+        "ab_sdk_version": "1320912"
+    }],
+    "magic_tag": "ss_app_log",
+    "header": {
+        "appkey": "5559e28267e58eb4c1000012",
+        "openudid": "d97c76f085e4c667",
+        "sdk_version": "2.5.5.8",
+        "package": "com.zhiliaoapp.musically",
+        "channel": "googleplay",
+        "display_name": "TikTok",
+        "app_version": "14.7.5",
+        "version_code": 2021407050,
+        "timezone": 8,
+        "access": "wifi",
+        "os": "Android",
+        "os_version": "9",
+        "os_api": 28,
+        "device_model": "unknown",
+        "device_brand": "unknown",
+        "language": "zh",
+        "resolution": "1280x720",
+        "display_density": "mdpi",
+        "density_dpi": 311,
+        "mc": "02:00:00:00:00:00",
+        "carrier": "unknown",
+        "mcc_mnc": "00101",
+        "clientudid": "a55c791d-c749-4202-8075-c7b290aeed8c",
+        "sig_hash": "194326e82c84a639a52e5c023116f12a",
+        "aid": 1233,
+        "push_sdk": [1, 2, 6, 7, 8, 9],
+        "rom": "eng.McFy.20190908.193312",
+        "release_build": "688b613_20200121",
+        "update_version_code": 2021407050,
+        "manifest_version_code": 2021407050,
+        "cpu_abi": "armeabi-v7a",
+        "sim_serial_number": [],
+        "not_request_sender": 0,
+        "rom_version": "unknown",
+        "region": "TW",
+        "tz_name": "Asia\/Taipei",
+        "tz_offset": 28800,
+        "sim_region": "xx",
+        "google_aid": "[REDACTED]",
+        "app_language": "zh-Hant",
+        "sys_region": "TW",
+        "carrier_region": "XX",
+        "timezone_name": "台北標準時間",
+        "timezone_offset": "28800"
+    },
+    "_gen_time": 1608022853371
+}
